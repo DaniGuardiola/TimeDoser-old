@@ -1,0 +1,111 @@
+{
+  "appname": {
+    "message": "TimeDoser",
+    "description": "Main title of the app, don't change this"
+  },"appdescription": {
+    "message": "Распредели своё время",
+    "description": "Description of the app"
+  },"workNotifyTITLE": {
+    "message": "Рабочее время",
+    "description": "Title of work time notification"
+  },"workNotifyMSG": {
+    "message": "Сделаем это!",
+    "description": "Message of work time notification"
+  },"breakNotifyTITLE": {
+    "message": "Время отдыха",
+    "description": "Title of break time notification"
+  },"breakNotifyMSG": {
+    "message": "Расслабься...",
+    "description": "Message of break time notification"
+  },"workPopupText": {
+    "message": "Работать!",
+    "description": "Initial message of work time popup"
+  },"donePopupText": {
+    "message": "Классно!",
+    "description": "Initial message of work time popup when done button on timer window is clicked"
+  },"breakPopupText": {
+    "message": "Отдыхать!",
+    "description": "Initial message of break time popup"
+  },"inputPopupText": {
+    "message": "Что ты собираешься делать?",
+    "description": "Message of popup input"
+  },"largeEnterPopupText": {
+    "message": "Поехали!",
+    "description": "Message shown on input enter when text is large"
+  },"firstEnterPopupText": {
+    "message": "Начать ",
+    "description": "Message shown on input enter before action name"
+  },"lastEnterPopupText": {
+    "message": "!",
+    "description": "Message shown on input enter after action name"
+  },"titleWork": {
+    "message": "работа",
+    "description": "The window will have the title {time (thismessage)} on work time"
+  },"titleBreak": {
+    "message": "отдых",
+    "description": "The window will have the title {time (thismessage)} on break time"
+  },"tts_locale": {
+    "message": "ru_RU",
+    "description": "Text to speech: locale"
+  },"tts_pause_on": {
+    "message": "Остановить",
+    "description": "Text to speech: pause"
+  },"tts_pause_off": {
+    "message": "Возобновить",
+    "description": "Text to speech: resume"
+  },"tts_break": {
+    "message": "Время отдыха. Расслабься.",
+    "description": "Text to speech: break time"
+  },"tts_work": {
+    "message": "Что ты собираешься делать?",
+    "description": "Text to speech: work time"
+  },"tts_done": {
+    "message": "Завершить задачу.",
+    "description": "Text to speech: done"
+  },"tts_pin": {
+    "message": "Включен режим: всегда поверх окон",
+    "description": "Text to speech: always on top by command"
+  },"titletag_close_button": {
+    "message": "Закрыть",
+    "description": "Hint text when hovering close_button"
+  },"titletag_pin_button": {
+    "message": "Поверх всех окон",
+    "description": "Hint text when hovering pin_button"
+  },"titletag_config_button": {
+    "message": "Настройки",
+    "description": "Hint text when hovering config_button"
+  },"titletag_standby_button": {
+    "message": "Начать",
+    "description": "Hint text when hovering standby_button"
+  },"titletag_time_button": {
+    "message": "Пауза",
+    "description": "Hint text when hovering time_button"
+  },"titletag_stop_button": {
+    "message": "Остановить",
+    "description": "Hint text when hovering stop_button"
+  },"titletag_collapse_button": {
+    "message": "Показать / скрыть кнопки",
+    "description": "Hint text when hovering collapse_button"
+  },"titletag_break_skip_button": {
+    "message": "Пропустить отдых",
+    "description": "Hint text when hovering break_skip_button"
+  },"titletag_skip_small_button": {
+    "message": "Пропустить отдых",
+    "description": "Hint text when hovering skip_small_button"
+  },"titletag_setting_workTime": {
+    "message": "Время работы",
+    "description": "Hint text when hovering setting_workTime"
+  },"titletag_setting_breakTime": {
+    "message": "Время отдыха",
+    "description": "Hint text when hovering setting_breakTime"
+  },"titletag_setting_notif": {
+    "message": "Уведомления",
+    "description": "Hint text when hovering setting_notif"
+  },"titletag_setting_audio": {
+    "message": "Звук",
+    "description": "Hint text when hovering setting_audio"
+  },"titletag_template": {
+    "message": "",
+    "description": "Hint text when hovering TEMPLATE"
+  }
+}
